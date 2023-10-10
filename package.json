@@ -1,0 +1,15 @@
+{
+  "name": "catalog_examples",
+  "version": "1.0.0",
+  "description": "A set of example scripts for the Atellix Catalog API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Warning: no test specified\""
+  },
+  "author": "Atellix, Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "@atellix/catalog": "github:atellix/catalog"
+  }
+}
